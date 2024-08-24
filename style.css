@@ -1,0 +1,25 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+h1 {
+  color: blue;
+}
+#doan-van-2 {
+  color: aqua;
+}
+.demo {
+  color: violet;
+}
+.demo2 {
+  text-transform: uppercase;
+  font-size: 50px;
+}
+.huy{
+    background-color: brown;
+    color: white;
+    text-align:justify;
+    text-transform: uppercase;
+    list-style: none;
+    
+}
